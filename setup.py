@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name="aoc-tools-dannyboywoop",
-    version="1.2.0",
+    version="2.0.0",
     author="Daniel Holmes",
     author_email="DanielJHolmes@hotmail.co.uk",
     description="AdventOfCode tools.",

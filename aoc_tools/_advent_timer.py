@@ -1,7 +1,7 @@
 from time import perf_counter
 
 
-class Advent_Timer:
+class AdventTimer:
     def __init__(self):
         self.last_checkpoint = self.start_time = perf_counter()
 
